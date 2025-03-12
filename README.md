@@ -7,12 +7,12 @@ VORP is an advanced vehicle routing optimization platform designed to solve comp
   Modern interface with interactive route optimization
 </p>
 
-![Route Calculation](https://github.com/yourusername/VORP/raw/main/screenshots/route-planner.png)  
+![Route Calculation](https://github.com/Navadeep-Reddy/ProjectScreenshots-/blob/main/VORPScreenShots/Screenshot%20From%202025-03-12%2019-12-41.png)  
 <p align="center">
   Interactive route planning with capacity constraints
 </p>
 
-![Optimized Routes](https://github.com/yourusername/VORP/raw/main/screenshots/optimized-routes.png)  
+![Optimized Routes](https://github.com/Navadeep-Reddy/ProjectScreenshots-/blob/main/VORPScreenShots/Screenshot%20From%202025-03-12%20at%2019.15.05.png)  
 <p align="center">
   Visualized optimized routes with detailed metrics
 </p>
